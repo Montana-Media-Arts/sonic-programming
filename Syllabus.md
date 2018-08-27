@@ -36,22 +36,24 @@ Date modified: 2018-08-24
 
 In _Sonic Programming_ students will learn how to utilize computer science based techniques to create, process, and distribute original sonic art and music. This course will spend a majority of its time focused on the real-time creation of sonic art and music, as well as the application of concepts from interactive theory and interactive systems.
 
-In a time with an increasing number of job opportunities that require individuals to be capable of not only creating custom content, but of creating custom content that is live with interactive opportunities, it is important that artists become capable of utilizing technologies that allow for this. There are many tools available to artists and musicians to create these types of music and artworks. Fortunately, the principles underlying most of these technologies are transferrable. Therefore, it is critical that artists and musicians deeply learn at least one of these environments or tools. The knowledge and skills developed in one are then transferrable to others. For that reason, we will primarily utilize the SuperCollider language and environment. This tool is chosen because it is open-source, cross-platform compatible, widely used, and incredibly powerful.
+In a time with an increasing number of job opportunities that require individuals to be capable of not only creating custom content, but of creating custom content that is live with interactive opportunities, it is important that artists become capable of utilizing technologies that allow for this. There are many tools available to artists and musicians to create these types of music and artworks. Fortunately, the principles underlying most of these technologies are transferrable. Therefore, it is critical that artists and musicians deeply learn at least one of these environments or tools. The knowledge and skills developed in one are then transferrable to others.
 
 This course will involve weekly sketches and two larger compositions/artworks. These will be complimented with in-class lectures on technique, critical listening to ground your work, and discussions of aesthetics as it relates to this type of sonic art and music.
 
 ## Objectives
 
-Through this course, students are expected to;
+Through this course, students are expected to:
 
 - Gain a vocabulary and understanding about programming for sonic art and music.
+- Study the Unit Generator paradigm and how it is critical to all real-time signal based digital environments.
 - Gain an understanding of internal digital signal flow.
 - Explore the differences between synthesis and signal processing.
 - Learn the basic types of synthesis signal generators.
+- Learn how to process sounds from the real world using real-time techniques.
 - Learn how to organize code in order to create legible works.
-- Explore their creative process through sonic-based art works or compositions.
-- Explore how real-time, interactive-capable works change your creative process.
-- Present one larger work to the public.
+- Explore the creative process through sonic-based art works or compositions.
+- Explore how real-time, interactive-capable works change one's creative process.
+- Present one large work to the public.
 
 Students are expected to bring ideas to explore these techniques. The goals of the projects are not simply about the successful application of the technical processes. Instead, the goal is to integrate these technical elements to make work that is meaningful.
 
@@ -116,7 +118,7 @@ You will need access to a computer capable of running modern audio synthesis and
 
 ### Software
 
-For this semester, we will primarily be utilizing [SuperCollider](https://supercollider.github.io) (SC).
+For this semester, we will primarily be utilizing [SuperCollider](https://supercollider.github.io) (SC). This tool is chosen because it is open-source, cross-platform compatible, widely used, and incredibly powerful.
 
 > [SuperCollider](https://supercollider.github.io) is a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. It is free and open source software available for Windows, macOS, and Linux.
 >
@@ -136,7 +138,7 @@ For this semester, we will primarily be utilizing [SuperCollider](https://superc
 
 ## Course Evaluation
 
-Student work and progress will be assessed through;
+Student work and progress will be assessed through:
 
 
 - Weekly Sketches
@@ -161,6 +163,7 @@ Project grades will be based primarily on the student’s ability to:
 4.  Demonstrate creativity beyond the expected technical requirements.
 5.  Properly and punctually deliver all assignment files.
 
+**Please Note:** All Projects are required for this course. Failure to complete and submit a project will result in a failing grade for the course. There are no exceptions to this rule. Completion of this course requires all projects be completed.
 
 #### Participation
 
@@ -210,11 +213,12 @@ Documentation assignments or weekly sketches handed in after the due date and ti
 - Unexcused absences will affect your grade.
 - One absence is allowed; after that, your final overall grade for the course will drop by 2.5 pts out of 100 for each additional absence.
 - You are expected to work with colleagues to catch-up on what you missed.
+ 
 
 
 ## Plagiarism and Cheating Policy
 
-Students are expected to adhere to academic conduct policies of the University of Montana as explained in the [Student Conduct Code](http://www.umt.edu/vpesa/). All students should act with personal integrity, respect other students’ dignity, rights, and property, and help create and maintain an environment in which all can succeed.
+Students are expected to adhere to academic conduct policies of the University of Montana as explained in Section V of your [University of Montana Student Conduct Code](http://www.umt.edu/vpesa/Dean%20of%20Students/default.php):  “Academic misconduct is subject to an academic penalty by the course instructor and/or a disciplinary sanction by the University.  Academic misconduct is defined as all forms of academic dishonesty, including but not limited to:  (1) plagiarism, (2) misconduct during an examination or academic exercise, (3) unauthorized possession of examination or other course materials, (4) tampering with course materials, (5) submitting false information, (6) submitting work previously presented in another course, (7) improperly influencing conduct, (8) substituting, or arranging substitution, for another student during an examination or other academic exercise, (9) facilitating academic dishonesty, and (10) Altering transcripts, grades, examinations, or other academically related documents.”
 
 Dishonesty will not be tolerated in this course. This includes, but is not limited to, cheating on tests, cheating on assignments, fabricating information or citations, having unauthorized possession of examinations, submitting work of another person or work previously used, or tampering with the academic work of other students.
 
