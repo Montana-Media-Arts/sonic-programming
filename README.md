@@ -46,6 +46,10 @@ This course will involve weekly sketches and two larger compositions/artworks. T
 
 **Wednesday**
 
+- Headphone Listening and Evaluation Discussion
+    - [Spotify List of Suggested Tracks](https://open.spotify.com/user/mmusickm/playlist/6KBJcjjPE2QBem7NVuqVEa?si=T90TQ0MpQiqdeuFcc9HkAg)
+- Install SuperCollider
+- "Hello World" of SC
 
 **TODO:**
 
