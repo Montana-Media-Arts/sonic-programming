@@ -19,4 +19,4 @@
 
 
 // mouse driven complex amplitude modulation
-{ SinOsc.ar( freq: MouseX.kr( 20, 2000 ) ) * SinOsc.kr(MouseY.kr(0, 100).poll ) }.play;
+{ SinOsc.ar( freq: MouseX.kr( 20, 2000 ) ) * SinOsc.ar(MouseY.kr(0, 100).poll ) }.play;
