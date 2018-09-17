@@ -30,6 +30,8 @@ This course will involve weekly sketches and two larger compositions/artworks. T
 
 **Monday**
 
+_Welcome and course overview_
+
 - Course Overview
 - Syllabus
 - Discussion of Technologies, Tools, and Supplies
@@ -41,29 +43,42 @@ This course will involve weekly sketches and two larger compositions/artworks. T
 - Extra Meetings (Mandatory)
     - Concert Showing (Project 2) - Monday, December 3rd. From 7pm-9pm
     - Final Meeting (Wednesday, December 12th; 1:10pm-3:10pm)
-- Class discussion;
+- Class Discussion
 
 
 **Wednesday**
+
+_Listening, Installation, and "Hello World"_
 
 - Headphone Listening and Evaluation Discussion
     - [Spotify List of Suggested Tracks](https://open.spotify.com/user/mmusickm/playlist/6KBJcjjPE2QBem7NVuqVEa?si=T90TQ0MpQiqdeuFcc9HkAg)
 - Install SuperCollider
 - "Hello World" of SC
+- Review Git & GitHub.com
 
-**TODO:**
 
 
 ## Week 2
+
+**Monday:**
 
 _No Class on Monday, Sept. 3rd for Labor Day_
 
 
 **Wednesday**
 
+_Installation Revisited, "Hello World" cont', and lang vs. engine_
 
-**TODO:**
-
+- Review install of SC
+- Discussion of
+    - SCSynth
+    - SCLang
+    - SCIDE
+- Starting the Engine (SCSynth)
+- String-based "Hello World"
+    - `.postln`
+- Sound-based SC "Hello World"
+    - `{SinOsc.ar()}.play;`
 
 ## Week 3
 
