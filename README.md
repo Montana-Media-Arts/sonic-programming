@@ -39,12 +39,12 @@ This course will involve engaging classes that involve hands-on work. These will
 - [Week 6](#week-6)
 - [Week 7](#week-7)
 - [Week 8](#week-8)
-- [Week 9 - Crit Day #1](#week-9-crit-day-1)
+- [Week 9 - Crit Day #1](#week-9---crit-day-1)
 - [Week 10](#week-10)
 - [Week 11](#week-11)
 - [Week 12](#week-12)
 - [Week 13](#week-13)
-- [Week 14 - Public Presentation](#week-14-public-presentation)
+- [Week 14 - Public Presentation](#week-14---public-presentation)
 
 
 
