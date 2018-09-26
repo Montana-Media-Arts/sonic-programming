@@ -10,6 +10,12 @@
     - Wednesdays: 12:00pm - 1:00pm
     - Thursdays: 11:30am - 1:30pm
 
+## Links
+
+- [Syllabus](https://github.com/Montana-Media-Arts/sonic-programming/tree/master/Syllabus.md)
+- [Course GitHub Repo](https://github.com/Montana-Media-Arts/sonic-programming)
+
+
 ## COURSE OVERVIEW
 
 In _Sonic Programming_ students will learn how to utilize computer science based techniques to create, process, and distribute original sonic art and sound based work. This course will spend a majority of its time focused on the real-time creation of sonic art, as well as the application of concepts from interactive theory and interactive systems. This course combine students skills and technique in creative coding and sonic arts together.
@@ -18,26 +24,31 @@ In a time with an increasing number of job opportunities that require individual
 
 This course will involve engaging classes that involve hands-on work. These will be complimented with in-class lectures on technique, critical listening to ground your work, and discussions of aesthetics as it relates to this type of sonic art. Assessment of students will be conducted through weekly sketches and two larger artworks.
 
-## Objectives & Student Learning Outcomes
-
-Through this course, students are expected to demonstrate an ability to:
-
-- Discuss technical and aesthetic concerns within sonic arts that relate to creating custom art via specific programming environments.
-- Employ the Unit Generator paradigm in relation to real-time signal based digital environments.
-- Explain an understanding of digital audio signal flow as it relates to a non-DAW based sonic art creative process.
-- Create organized code and have an ability to asses organization structures in other's code as it relates to artistic ideas.
-- Synthesize creative sonic art works that consider both relevant aesthetics of the medium and the technical demands of working with code.
-- Present one significant sonic art work to the public.
-
-Students are expected to bring ideas to explore these techniques and skills. The goals of the projects are not simply about the successful application of the technical processes. Instead, the goal is to integrate these elements to make work that is meaningful.
-
-## Links
-
-- [Syllabus](https://github.com/Montana-Media-Arts/sonic-programming/tree/master/Syllabus.md)
-- [Course GitHub Repo](https://github.com/Montana-Media-Arts/sonic-programming)
 
 
-# Weekly Breakdown
+---
+
+
+# Class Breakdown
+
+- [Week 1](#week-1)
+- [Week 2](#week-2)
+- [Week 3](#week-3)
+- [Week 4](#week-4)
+- [Week 5](#week-5)
+- [Week 6](#week-6)
+- [Week 7](#week-7)
+- [Week 8](#week-8)
+- [Week 9 - Crit Day #1](#week-9-crit-day-1)
+- [Week 10](#week-10)
+- [Week 11](#week-11)
+- [Week 12](#week-12)
+- [Week 13](#week-13)
+- [Week 14 - Public Presentation](#week-14-public-presentation)
+
+
+
+
 
 ## Week 1
 

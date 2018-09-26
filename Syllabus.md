@@ -24,7 +24,7 @@ Date modified: 2018-09-26
 	- [Plagiarism and Cheating Policy](#plagiarism-and-cheating-policy)
 	- [Students with Disabilities](#students-with-disabilities)
 	- [Changes to the Course](#changes-to-the-course)
-- [Weekly Breakdown](#weekly-breakdown)
+- [Intended Weekly Breakdown](#intended-weekly-breakdown)
 	- [Week 1](#week-1)
 	- [Week 2](#week-2)
 	- [Week 3](#week-3)
