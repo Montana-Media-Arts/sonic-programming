@@ -12,7 +12,7 @@ Date modified: 2018-09-26
 - [Course Overview](#course-overview)
 	- [Basic Info](#basic-info)
 	- [Description](#description)
-	- [Objectives & Student Learning Outcomes](#objectives-student-learning-outcomes)
+	- [Objectives & Student Learning Outcomes](#objectives--student-learning-outcomes)
 	- [Professor/Instructor](#professorinstructor)
 	- [Course Websites](#course-websites)
 	- [Pre-Requisites](#pre-requisites)
