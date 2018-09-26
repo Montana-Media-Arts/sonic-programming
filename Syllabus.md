@@ -7,38 +7,38 @@ Date modified: 2018-09-26
 
 ## Table of Contents
 
-<!-- TOC depthFrom:1 depthTo:2 withLinks:0 updateOnSave:0 orderedList:0 -->
+<!-- TOC depthFrom:1 depthTo:2 withLinks:1 updateOnSave:0 orderedList:0 -->
 
-- Course Overview
-	- Basic Info
-	- Description
-	- Objectives & Student Learning Outcomes
-	- Professor/Instructor
-	- Course Websites
-	- Pre-Requisites
-	- Books and Supplies
-- Policies
-	- Course Evaluation
-	- Grades
-	- Attendance
-	- Plagiarism and Cheating Policy
-	- Students with Disabilities
-	- Changes to the Course
-- Weekly Breakdown
-	- Week 1
-	- Week 2
-	- Week 3
-	- Week 4
-	- Week 5
-	- Week 6
-	- Week 7
-	- Week 8
-	- Week 9 - Crit Day #1
-	- Week 10
-	- Week 11
-	- Week 12
-	- Week 13
-	- Week 14 - Public Presentation
+- [Course Overview](#course-overview)
+	- [Basic Info](#basic-info)
+	- [Description](#description)
+	- [Objectives & Student Learning Outcomes](#objectives-student-learning-outcomes)
+	- [Professor/Instructor](#professorinstructor)
+	- [Course Websites](#course-websites)
+	- [Pre-Requisites](#pre-requisites)
+	- [Books and Supplies](#books-and-supplies)
+- [Policies](#policies)
+	- [Course Evaluation](#course-evaluation)
+	- [Grades](#grades)
+	- [Attendance](#attendance)
+	- [Plagiarism and Cheating Policy](#plagiarism-and-cheating-policy)
+	- [Students with Disabilities](#students-with-disabilities)
+	- [Changes to the Course](#changes-to-the-course)
+- [Weekly Breakdown](#weekly-breakdown)
+	- [Week 1](#week-1)
+	- [Week 2](#week-2)
+	- [Week 3](#week-3)
+	- [Week 4](#week-4)
+	- [Week 5](#week-5)
+	- [Week 6](#week-6)
+	- [Week 7](#week-7)
+	- [Week 8](#week-8)
+	- [Week 9 - Crit Day #1](#week-9-crit-day-1)
+	- [Week 10](#week-10)
+	- [Week 11](#week-11)
+	- [Week 12](#week-12)
+	- [Week 13](#week-13)
+	- [Week 14 - Public Presentation](#week-14-public-presentation)
 
 <!-- /TOC -->
 
@@ -85,7 +85,7 @@ Students are expected to bring ideas to explore these techniques and skills. The
 ## Course Websites
 
 - [Course GitHub Repo](https://github.com/Montana-Media-Arts/sonic-programming) (This git repository holds code examples, an issues board, as well as course Wiki.)
-- [Direct Link to Course Wiki](https://github.com/Montana-Media-Arts/sonic-programming/wiki)
+
 
 
 
@@ -272,7 +272,7 @@ I reserve the right to change the intended content of this course throughout the
 
 ---
 
-# Weekly Breakdown
+# Intended Weekly Breakdown
 
 ## Week 1
 
