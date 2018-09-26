@@ -54,7 +54,7 @@ Date modified: 2018-09-26
 
 ## Description
 
-In _Sonic Programming_ students will learn how to utilize computer science based techniques to create, process, and distribute original sonic art and sound based work. This course will spend a majority of its time focused on the real-time creation of sonic art, as well as the application of concepts from interactive theory and interactive systems. This course combine students skills and technique in creative coding and sonic arts together.
+In _Sonic Programming_ students will learn how to utilize computer science based techniques to create, process, and distribute original sonic art and sound based work. This course will spend a majority of its time focused on the real-time creation of sonic art, as well as the application of concepts from interactive theory and interactive systems. This course combines students skills and technique in creative coding and sonic arts together.
 
 In a time with an increasing number of job opportunities that require individuals to be capable of not only creating custom content, but of creating custom content that is live with interactive opportunities, it is important that artists become capable of utilizing technologies that allow for this. There are many tools available to artists to create these types of artworks. Fortunately, the principles underlying most of these technologies are transferable. Therefore, it is critical that artists learn at least one of these environments at a deep level. The knowledge and skills developed in one are then transferable to others.
 
@@ -84,15 +84,14 @@ Students are expected to bring ideas to explore these techniques and skills. The
 
 ## Course Websites
 
-- [Course GitHub Repo](https://github.com/Montana-Media-Arts/sonic-programming) (This git repository holds code examples, an issues board, as well as course Wiki.)
-
+- [Course GitHub Repo (https://github.com/Montana-Media-Arts/sonic-programming)](https://github.com/Montana-Media-Arts/sonic-programming) (This git repository holds code examples, an issues board, as well as course Wiki.)
 
 
 
 
 ## Pre-Requisites
 
-Students should have completed MART 120 - Creative Coding I. It is also suggested that students have taken MART 220 Creative Coding II and MART 330 Principles of Sound Design.
+Students should have completed MART 120 - Creative Coding I. It is also suggested that students have taken MART 220 Creative Coding II and MART 245 - Introduction to the Language and Practice of Sonic Art and Audio.
 
 ## Books and Supplies
 
@@ -272,7 +271,7 @@ I reserve the right to change the intended content of this course throughout the
 
 ---
 
-# Intended Weekly Breakdown
+# Weekly Breakdown
 
 ## Week 1
 
