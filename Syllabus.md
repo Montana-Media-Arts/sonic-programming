@@ -649,6 +649,8 @@ _Crit Day #1_
 
 _Patterns & PBind_
 
+- Please Read:
+    - ["Part II - Patterns" from Bruno Ruviaro's _A Gentle Introduction to SuperCollider_](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf)
 - This week is a deep dive into the world of algorithmic composition, as allowed through SuperColliders Pattern capabilities.
 - Basic Pattern techniques with PBind
 - Effecting and controlling everything with patterns
