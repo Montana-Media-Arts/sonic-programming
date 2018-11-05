@@ -1,0 +1,9 @@
+
+Fourier Transform - FT
+Converts a time-domain signal into a frequency-domain signal.
+
+
+FFT -> Fast FT
+
+
+The length of a signal correlates to the number of bins in an FFT.
