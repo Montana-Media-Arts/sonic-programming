@@ -1,4 +1,4 @@
-# Sonic Programming (MART 391.01 - Special Topics Number)  |  Fall 2018
+# Sonic Programming (MART 420.01)  |  Fall 2021
 
 
 ## Professor/Instructor
