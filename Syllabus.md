@@ -1,30 +1,43 @@
 
 
-# Syllabus | Sonic Programming (MART 391.01 - Special Topics Number)
+# Sonic Programming | MART 420</br>Syllabus
 
-Date modified: 2018-09-26
+Date modified: Aug-30-2021
+
+
+
+![](./extras/SVMA-Logo-Wide.jpg "Wide SVMA Logo")
 
 
 ## Table of Contents
 
 <!-- TOC depthFrom:1 depthTo:2 withLinks:1 updateOnSave:0 orderedList:0 -->
 
+
+
 - [Course Overview](#course-overview)
-	- [Basic Info](#basic-info)
+	- [Professor/Instructor](#professorinstructor)
 	- [Description](#description)
 	- [Objectives & Student Learning Outcomes](#objectives--student-learning-outcomes)
-	- [Professor/Instructor](#professorinstructor)
-	- [Course Websites](#course-websites)
+	- [Course Format](#course-format)
 	- [Pre-Requisites](#pre-requisites)
 	- [Books and Supplies](#books-and-supplies)
-- [Policies](#policies)
+- [Course Policies](#course-policies)
 	- [Course Evaluation](#course-evaluation)
 	- [Grades](#grades)
 	- [Attendance](#attendance)
-	- [Plagiarism and Cheating Policy](#plagiarism-and-cheating-policy)
-	- [Students with Disabilities](#students-with-disabilities)
+	- [Course Workload](#course-workload)
+- [SVMA, CAM, and University Policies and Information](#svma-cam-and-university-policies-and-information)
+	- [School of Visual and Media Arts](#school-of-visual-and-media-arts)
+	- [Academic Honesty, Plagiarism, and Cheating Policy](#academic-honesty-plagiarism-and-cheating-policy)
+	- [Sensitive Subject Matter & Censorship](#sensitive-subject-matter--censorship)
+	- [Be Kind](#be-kind)
+	- [Diversity Statement](#diversity-statement)
+	- [Student Support Resources](#student-support-resources)
+	- [COVID-19 Specific Information](#covid-19-specific-information)
+	- [Land Acknowledgement](#land-acknowledgement)
 	- [Changes to the Course](#changes-to-the-course)
-- [Intended Weekly Breakdown](#intended-weekly-breakdown)
+- [Weekly Breakdown](#weekly-breakdown)
 	- [Week 1](#week-1)
 	- [Week 2](#week-2)
 	- [Week 3](#week-3)
@@ -33,24 +46,39 @@ Date modified: 2018-09-26
 	- [Week 6](#week-6)
 	- [Week 7](#week-7)
 	- [Week 8](#week-8)
-    - [Week 9 - Crit Day #1](#week-9---crit-day-1)
-    - [Week 10](#week-10)
-    - [Week 11](#week-11)
-    - [Week 12](#week-12)
-    - [Week 13](#week-13)
-    - [Week 14 - Public Presentation](#week-14---public-presentation)
+	- [Week 9 - Crit Day #1](#week-9---crit-day-1)
+	- [Week 10](#week-10)
+	- [Week 11](#week-11)
+	- [Week 12](#week-12)
+	- [Week 13](#week-13)
+	- [Week 14 - Public Presentation](#week-14---public-presentation)
+	- [Week 15](#week-15)
 
 <!-- /TOC -->
 
 
 
-# COURSE OVERVIEW
+# Course Overview
 
-## Basic Info
-
-- CRN:
+- Name: Sonic Programming
+- Course Number: MART 420.01
+- CRN: 76029
+- Term: Fall, 2021
 - Credits: 3
-- Location: McGill 127 & McGill Sound Studio
+- Location: McGill 127 (Mac Lab) and McGill 123 (Sound Studio)
+  - GitHub Link: [https://github.com/Montana-Media-Arts/sonic-programming](https://github.com/Montana-Media-Arts/sonic-programming)
+- Date/Time: Fridays 10:00 am - 12:50 pm
+- University Unit: [School of Visual and Media Arts (SVMA)](https://www.umt.edu/svma/), [College of the Arts and Media (CAM)](https://www.umt.edu/umarts/), [University of Montana](https://www.umt.edu)
+
+## Professor/Instructor
+
+- [Michael Musick, PhD](http://michaelmusick.com)
+- E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu?subject=mart420%20Question).
+- Office: McGill Hall, 232
+- Office Hours:
+  - In-person (McG 232): Monday's noon-1pm
+  - Virtual via Appointment from Link: [calendly.com/michael-musick](https://calendly.com/michael-musick)
+	- Please select a meeting time from availability via the Calendly web service. This will then provide you with a zoom link
 
 ## Description
 
@@ -74,18 +102,9 @@ Through this course, students are expected to demonstrate an ability to:
 Students are expected to bring ideas to explore these techniques and skills. The goals of the projects are not simply about the successful application of the technical processes. Instead, the goal is to integrate these elements to make work that is meaningful.
 
 
+## Course Format
 
-## Professor/Instructor
-
-- [Dr. Michael Musick](http://michaelmusick.com)
-- E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
-- Office: McGill Hall, 232.
-
-
-## Course Websites
-
-- [Course GitHub Repo (https://github.com/Montana-Media-Arts/sonic-programming)](https://github.com/Montana-Media-Arts/sonic-programming) (This git repository holds code examples, an issues board, as well as course Wiki.)
-
+This course will be offered as an in-person experience. Classes will include lectures on both technical topics and aesthetic considerations; critiques of student work; and lab time for student experimenting.
 
 
 
@@ -99,9 +118,9 @@ There are no required texts that you must purchase for this course. All readings
 
 ### Headphones
 
-You will need to bring a pair of headphones for work in this class. I would suggest you invest in a good pair, as part of your grade will be based on the technical quality of your work. If you cannot hear issues because you have poor quality headphones, then you are risking poor grades.
+You will need to acquire a pair of headphones for work in this class. I would suggest you invest in a good pair, as part of your grade will be based on the technical quality of your work. If you cannot hear issues because you have poor quality headphones, then you are risking poor grades.
 
-You are looking for reference quality headphones. That means headphones that present your audio to you as honest and neutral as possible. A bad mix should sound like a bad mix. Hyped headphones that accentuate bass or highs in flattering ways can hide detail and mix issues.
+You are looking for reference quality headphones. That means headphones that present your audio to you as honest and neutral as possible. A bad mix should sound like a bad mix. Hyped headphones that accentuate bass or high frequencies in flattering ways can hide detail and mix issues.
 
 _A discussion of headphones will occur on the first day of the course._
 
@@ -109,13 +128,19 @@ _A discussion of headphones will occur on the first day of the course._
 
 Headphones, like all professional media gear can be cheap or incredibly expensive. With that in mind, you can get good quality headphones that don't break the bank. Here are a few of my suggestions.
 
-- [Samson SR850 Semi-Open-Back Studio Reference Headphones - $30](https://www.amazon.com/Samson-SR850-Professional-Reference-Headphones/dp/B002LBSEQS/ref=as_li_ss_tl?tag=studioheadphone-20&ie=UTF8&redirect=true&ref_=as_li_tl&linkId=29428ce379cfed3cb2be2666574f5db4) - These are the cheapest that will still “get the job done”.
-- [AKG K240STUDIO Semi-Open Studio Headphones - $57](https://www.amazon.com/AKG-240-Semi-Open-Studio-Headphones/dp/B0001ARCFA/ref=as_li_ss_tl?tag=studioheadphone-20&ie=UTF8&redirect=true&ref_=as_li_tl&linkId=0f9783b2deabd78b1bcd62dc1b342c05) - These are great headphones. However, they are “semi-open” which will both improve sound quality for mixing and make anyone sitting within 10 feet of you potentially stare in annoyance.
-- [Sennheiser HD 202 II Professional Headphones (Black) - $60](https://www.amazon.com/Sennheiser-HD-202-II-Professional/dp/B003LPTAYI/ref=pd_bxgy_23_2?_encoding=UTF8&pd_rd_i=B003LPTAYI&pd_rd_r=2edf0067-a70d-11e8-b9b0-b9c4745829eb&pd_rd_w=34QDu&pd_rd_wg=CK9Nu&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=7ca3846a-7fcf-4568-9727-1bc2d7b4d5e0&pf_rd_r=V1R67GPDR1C7CYABY16N&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=V1R67GPDR1C7CYABY16N)
-- [Sony MDR7506 Professional Large Diaphragm Headphone - $80](https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1535053810&sr=1-1&keywords=MDR-7506#) - (An industry standard for recording and working with headphones)
+**_Highly Suggested_**
+
+- [Sony MDR7506 Professional Large Diaphragm Headphone - $90](https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1535053810&sr=1-1&keywords=MDR-7506#) - (An industry standard for recording and working with headphones)
 - [Sennheiser HD280PRO Headphone - $100](https://www.amazon.com/gp/product/B00IT0IHOY?tag=audiprodtips-20&ie=UTF8&th=1) - (I have had a pair of these since I was an undergrad. They are still my main pair of headphones for work when I need them. They are built to last and sound great.)
-- [Audio-Technica ATH-M50x Professional Studio Monitor Headphones - $150](https://www.amazon.com/dp/B00HVLUR86/ref=dp_cerb_3)
-- [beyerdynamic DT 770 PRO 32 Ohm Studio Headphone - $170](https://www.amazon.com/dp/B0778DNYPK?aaxitk=HMFdJ5SDf-t20usaXIOB-w&pd_rd_i=B0016MNAAI&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=54dc821a-0937-4e6f-9da9-f8dd5443145d&pf_rd_s=desktop-sx-top-slot&pf_rd_t=301&pf_rd_i=DT770&hsa_cr_id=9048693010101&sb-ci-n=textLink&sb-ci-v=beyerdynamic%2BDT%2B770%2BPRO%2B80%2BOhm%2BStudio%2BHeadphone&th=1)
+
+**_Other Recommendations_**
+
+- [Samson SR850 Semi-Open-Back Studio Reference Headphones - $34](https://www.amazon.com/Samson-SR850-Professional-Reference-Headphones/dp/B002LBSEQS/ref=as_li_ss_tl?tag=studioheadphone-20&ie=UTF8&redirect=true&ref_=as_li_tl&linkId=29428ce379cfed3cb2be2666574f5db4) - These are the cheapest that will still “get the job done”.
+- [AKG K240STUDIO Semi-Open Studio Headphones - $67](https://www.amazon.com/AKG-240-Semi-Open-Studio-Headphones/dp/B0001ARCFA/ref=as_li_ss_tl?tag=studioheadphone-20&ie=UTF8&redirect=true&ref_=as_li_tl&linkId=0f9783b2deabd78b1bcd62dc1b342c05) - These are great headphones. However, they are “semi-open” which will both improve sound quality for mixing and make anyone sitting within 10 feet of you potentially stare in annoyance.
+- [Sennheiser HD 202 II Professional Headphones (Black) - $40](https://www.amazon.com/Sennheiser-HD-202-II-Professional/dp/B003LPTAYI/ref=pd_bxgy_23_2?_encoding=UTF8&pd_rd_i=B003LPTAYI&pd_rd_r=2edf0067-a70d-11e8-b9b0-b9c4745829eb&pd_rd_w=34QDu&pd_rd_wg=CK9Nu&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=7ca3846a-7fcf-4568-9727-1bc2d7b4d5e0&pf_rd_r=V1R67GPDR1C7CYABY16N&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=V1R67GPDR1C7CYABY16N)
+- [Audio-Technica ATH-M50x Professional Studio Monitor Headphones - $145](https://www.amazon.com/dp/B00HVLUR86/ref=dp_cerb_3)
+	- There is also a wireless/bluetooth version of these, that additionally includes an optional wired connection. If you want bluetooth headphones, I would recommend these.
+- [beyerdynamic DT 770 PRO 32 Ohm Studio Headphone - $179](https://www.amazon.com/dp/B0778DNYPK?aaxitk=HMFdJ5SDf-t20usaXIOB-w&pd_rd_i=B0016MNAAI&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=54dc821a-0937-4e6f-9da9-f8dd5443145d&pf_rd_s=desktop-sx-top-slot&pf_rd_t=301&pf_rd_i=DT770&hsa_cr_id=9048693010101&sb-ci-n=textLink&sb-ci-v=beyerdynamic%2BDT%2B770%2BPRO%2B80%2BOhm%2BStudio%2BHeadphone&th=1)
 
 
 For more info, the following guide provides good information on the two major types of headphones and suggestions.
@@ -141,10 +166,10 @@ For this semester, we will primarily be utilizing [SuperCollider](https://superc
 > **scide** is an editor for sclang with an integrated help system.
 
 
+Additionally, you will need to utilize a DAW from time to time. You are welcome to use any DAW of your choice. _Please speak with the instructor if you have questions about this._
 
 
-
-# Policies
+# Course Policies
 
 ## Course Evaluation
 
@@ -229,14 +254,34 @@ Documentation assignments or weekly sketches handed in after the due date and ti
 - You are expected to work with colleagues to catch-up on what you missed.
  
 
+## Course Workload
 
-## Plagiarism and Cheating Policy
+This course takes time. Some things might be easier than others.
 
-Students are expected to adhere to academic conduct policies of the University of Montana as explained in Section V of your [University of Montana Student Conduct Code](http://www.umt.edu/student-affairs/dean-of-students/Student%20Conduct%20Code%20-%20FINAL%20-%208-24-18.pdf):  “Academic misconduct is subject to an academic penalty by the course instructor and/or a disciplinary sanction by the University.  Academic misconduct is defined as all forms of academic dishonesty, including but not limited to:  (1) plagiarism, (2) misconduct during an examination or academic exercise, (3) unauthorized possession of examination or other course materials, (4) tampering with course materials, (5) submitting false information, (6) submitting work previously presented in another course, (7) improperly influencing conduct, (8) substituting, or arranging substitution, for another student during an examination or other academic exercise, (9) facilitating academic dishonesty, and (10) Altering transcripts, grades, examinations, or other academically related documents.”
+Some week's will be more intense than others. But generally, you should plan to spend 3-9 hours a week on course work outside of class.
 
-Dishonesty will not be tolerated in this course. This includes, but is not limited to, cheating on tests, cheating on assignments, fabricating information or citations, having unauthorized possession of examinations, submitting work of another person or work previously used, or tampering with the academic work of other students.
+In addition, there will be a final presentation of materials, including both a public show and potentially a broadcast on KGBA. These events will both be mandatory and dates will be provided at the start of the semester.
+# SVMA, CAM, and University Policies and Information
 
-Plagiarism is the presentation of the work of another without acknowledgement. As defined by the [University of Montana’s Student Conduct Code](http://www.umt.edu/vpsa/policies/default.php), plagiarism is “Representing another person's words, ideas, data, or materials as one's own.”  Students may use information and ideas expressed by others, but this use must be identified by appropriate referencing.
+## School of Visual and Media Arts
+
+Information about the School of Visual and Media Arts (SVMA) is available at:
+
+- [https://svma.umt.edu](https://svma.umt.edu)
+
+Please join SVMA social media to stay informed about events and happenings in our school.
+
+- Instagram:  [https://www.instagram.com/umt_svma/](https://www.instagram.com/umt_svma/)
+- Facebook: [https://www.facebook.com/UMTsvma](https://www.facebook.com/UMTsvma)
+
+**Student Art Collective**  (this is primarily for art students) The collective is a student –organized and student-led group that sponsors art related workshops, events, and the Annual Juried Student Art Show.  Look for informational posters. The Director recommends soliciting student participation in art classes.
+
+
+## Academic Honesty, Plagiarism, and Cheating Policy
+
+Students are expected to adhere to academic conduct policies of the University of Montana as explained in Section V of your [University of Montana Student Conduct Code](https://www.umt.edu/student-affairs/community-standards/default.php):  “Academic misconduct is subject to an academic penalty by the course instructor and/or a disciplinary sanction by the University.  Academic misconduct is defined as all forms of academic dishonesty, including but not limited to:  (1) plagiarism, (2) misconduct during an examination or academic exercise, (3) unauthorized possession of examination or other course materials, (4) tampering with course materials, (5) submitting false information, (6) submitting work previously presented in another course, (7) improperly influencing conduct, (8) substituting, or arranging substitution, for another student during an examination or other academic exercise, (9) facilitating academic dishonesty, and (10) Altering transcripts, grades, examinations, or other academically related documents.”
+
+Dishonesty will not be tolerated in this course. This includes, but is not limited to, cheating on tests, cheating on assignments, fabricating information or citations, having unauthorized possession of examinations, submitting work of another person or work previously used, or tampering with the academic work of other students. Academic misconduct is defined within the Student Conduct Code handbook.
 
 Students who cheat or plagiarize will receive academic sanctions, which may include an “F” grade on the assignment, examination, and/or in the course. Students will also be reported to the Dean of Students for possible further disciplinary action.
 
@@ -257,17 +302,71 @@ If you use found media, *YOU* are responsible to ensure it is used according to 
 For found media, you are also expected to cite the media in your documentation for the project.
 
 
+## Sensitive Subject Matter & Censorship
 
-## Students with Disabilities
+This course operates under a no censorship policy, and you should feel free to experiment with challenging topics in your projects. That said - if you submit work with violent or sexually explicit themes, containing hate speech, racial slurs or other sensitive subject matter, I might contact you to request more background information on your choices.
 
-The University of Montana assures equal access to instruction through collaboration between students with disabilities, instructors, and Disability Services for Students. Students with disabilities are encouraged to plan ahead and can contact [Disability Services for Students (DSS)](http://www.umt.edu/dss/). If you think you may have a disability adversely affecting your academic performance, and you have not already registered with Disability Services, please contact Disability Services in Lommasson Center 154, or call (406)243-2243. I will work with you and Disability Services to provide an appropriate modification.
+Art scholarship and art practice along with teaching and learning involve a critical exploration of ideas, theories, art-making practices, and art movements that encompass such things as the human body, sexuality, race, gender, religions, and cultures. This course can touch upon any of the above categories with an expectation that students will actively participate in all course assignments, discussions, and tests. Given this information, it is the student’s obligation to determine that the requirements conflict with his or her core beliefs. If the student determines that there is a conflict with his or her beliefs, one of the following actions needs to be taken: 1) drop the class before the last day to drop a course without penalty; 2) meet with the instructor within the first week of classes to determine if an accommodation can be made.  (Note, faculty, are not required to grant content accommodations.)
 
 
+## Be Kind
+
+Be respectful to each other, help each other, and be considerate in your communications with the instructional team.  No trolling shared work and ideas. Be constructive with any critical feedback you give.
+
+## Diversity Statement
+
+Your experience in this class is important to me.  I welcome individuals of all backgrounds, beliefs, ethnicities, genders, gender identities, gender expressions, races, national origins, religious affiliations, sexual orientations, ages, abilities, and other visible and nonvisible differences. Please know that I will gladly honor your request to address you by an alternate name or gender pronoun.  All members of this class are expected to contribute to a welcoming, respectful, and inclusive environment for every other member of this class.
+
+
+## Student Support Resources
+
+### Disability and Equity Accommodations
+
+The University of Montana assures equal access to instruction through collaboration between students with disabilities, instructors, and the Office for Disability Equity (ODE). If you anticipate or experience barriers based on disability, please contact the ODE at: (406) 243-2243, [ode@umontana.edu](mailto:ode@umontana.edu), or visit [www.umt.edu/disability](www.umt.edu/disability) for more information. Retroactive accommodation requests will not be honored, so please, do not delay. As your instructor, I will work with you and the ODE to implement an effective accommodation, and you are welcome to contact me privately if you wish.
+
+### The Writing and Public Speaking Center
+
+The Writing and Public Speaking Center provides one-on-one tutoring to students at all levels and at any time in the writing process. Visit now. Visit often. They're ready when you are. [www.umt.edu/writingcenter](www.umt.edu/writingcenter).
+
+### Mental Health and Wellbeing Policy
+
+The University of Montana is committed to advancing the mental health and wellbeing of its students. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. For help, visit https://www.umt.edu/diversity/resources/mental-health.php
+
+
+## COVID-19 Specific Information
+
+- Mask use is required within the classroom or laboratory.
+  - NOTE: All CAM buildings are considered active classrooms and laboratories, due to the nature of work we conduct in the arts. Therefore masks are required within all CAM buildings (including the entirety of McGill)
+- If you feel sick and/or are exhibiting COVID-19 symptoms, please don’t come to class and contact the Curry Health Center at (406) 243-4330.
+- If you are required to isolate or quarantine, you will receive support in the class to ensure continued academic progress.
+  - Please reach out if you need further accommodations due to a COVID-19 case.
+- UM recommends students get the COVID-19 vaccine. Please direct your questions or concerns about vaccines to Curry Health Center.
+- Where social distancing (maintaining consistent 6 feet between individuals) is not possible, specific seating arrangements will be used to support contact tracing efforts.
+- Class attendance and seating will be recorded to support contact tracing efforts.
+- Drinking liquids and eating food is discouraged within the classroom.
+- Please note this class is being recorded. Notifying students is a requirement if this is the case.
+
+- Up-to-Date COVID-19 Information from the University of Montana
+	- UM Coronavirus Website:  [https://www.umt.edu/coronavirus](https://www.umt.edu/coronavirus)
+	- UM COVID-19 Operations Plan:  [https://www.umt.edu/coronavirus/campus-covid-plan/default.php](https://www.umt.edu/coronavirus/campus-covid-plan/default.php)
+
+As a final reminder, we (The University Community) strongly encourage you to remain vigilant outside the classroom in mitigating the spread of COVID-19. The only way for this semester to be successful and to maintain minimal interruptions to our educational mission is to ensure the safety and health of all members of our community. Please remember that, and make all decisions and choices during this time with this idea above all others; that the safety and health of our entire community is our most important goal.
+
+#### In Case the Instructor Becomes Sick
+
+If I become sick from COVID-19 during the course of this semester, I will do everything I can to maintain my teaching and mentorship, utilizing the existing modalities established for this semester. However, I will obviously be unable to utilize my university office and will therefore have to make adjustments.
+
+If I become unable to attend weekly class sessions, I will alter the course such that you may continue with your individual projects in an appropriate manner. I will also likely ask that you continue to meet as a cohort, so that you can support each other in your research and artistic pursuits.
+
+## Land Acknowledgement
+
+he Séliš-Ql̓ispé Cultural Committee created the language, _"The University of Montana acknowledges that we are in the aboriginal territories of the Salish and Kalispel people Today, we honor the path they have always shown us in caring for this place for the generations to come."_
 
 
 ## Changes to the Course
 
 I reserve the right to change the intended content of this course throughout the semester. This may be done to adjust for the speed of the class, to better meet educational goals, or to account for changes in technology.
+
 
 ---
 
@@ -275,7 +374,7 @@ I reserve the right to change the intended content of this course throughout the
 
 ## Week 1
 
-**Monday**
+**Part 1**
 
 _Welcome and course overview_
 
@@ -285,15 +384,16 @@ _Welcome and course overview_
     - [SuperCollider](https://supercollider.github.io)
     - Headphones
 - Critique Days (Mandatory)
-    - Project 1 - Critique in Class; Wednesday, October 24th
+    - Project 1 - Critique in Class; Friday, October 29th
     - Project 2 - Critique in Class; Monday, December 3rd
 - Extra Meetings (Mandatory)
-    - Concert Showing (Project 2) - Monday, December 3rd. From 7pm-9pm
-    - Finals Meeting (Wednesday, December 12th; 1:10pm-3:10pm)
+    - Concert Showing (Project 2) - Friday, December 3rd. From 7pm-9pm
+    - KGBA Presentation (Virtual Attendance Requested) - Wednesday, December 8th. From 8pm-10pm
+     - Finals Meeting (Wednesday, December 15th; 8:00AM-10:00AM)
 - Class Discussion
 
 
-**Wednesday**
+**Part 2**
 
 _Listening, Inspiration, and Software Installation_
 
@@ -307,12 +407,18 @@ _Listening, Inspiration, and Software Installation_
 
 ## Week 2
 
-**Monday:**
+**Part 1**
 
-_No Class on Monday, Sept. 3rd for Labor Day_
+_No Class Likely for Musick Baby!_
 
 
-**Wednesday**
+<!-- **Part 2** -->
+
+
+
+## Week 3
+
+**Part 1**
 
 _Installation Revisited, "Hello World", and lang vs. engine_
 
@@ -333,9 +439,7 @@ _Installation Revisited, "Hello World", and lang vs. engine_
     - line comments (`//`)
     - block comments (`/* */`)
 
-## Week 3
-
-**Monday**
+**Part 2**
 
 _Moving beyond static sine waves with modulation_
 
@@ -369,8 +473,9 @@ _Moving beyond static sine waves with modulation_
 
 Sketch TODO: Use MouseX/Y or Additional SinOsc UGens to play. Make an "interesting" synth that explores the relationships between these UGens. Can you recreate what we have been doing in class on your own? Do you understand what is happening? We will share results at the start of next class.
 
+## Week 4
 
-**Wednesday**
+**Part 1**
 
 _Audio Rate vs. Control Rate, Signal Flow, Variables, and Arguments_
 
@@ -393,12 +498,7 @@ _Audio Rate vs. Control Rate, Signal Flow, Variables, and Arguments_
     - Using Variables (`var`)
     - variable reassignment
 
-
-
-
-## Week 4
-
-**Monday**
+**Part 2**
 
 _Tour of Basic Deterministic Generator UGens, and Functions_
 
@@ -415,7 +515,12 @@ _Tour of Basic Deterministic Generator UGens, and Functions_
         - `.value()`
 - Easy SynthDef via function notation (`{}.play;`)
 
-**Wednesday**
+Sketch TODO: Create a simple synth utilizing additive synthesis, subtractive synthesis, amplitude modulation, frequency modulation, or any other deterministic or stochastic UGens that you can play and change via mouse interaction or argument setting. We will share these at the next class.
+
+
+## Week 5
+
+**Part 1**
 
 _"In Living Stereo", Signal Arrays, and Output_
 
@@ -432,14 +537,8 @@ _"In Living Stereo", Signal Arrays, and Output_
     - `Out.ar()`
     - 0-based language (_including audio output Buses_)
 
-Sketch TODO: Create a simple synth utilizing additive synthesis, subtractive synthesis, amplitude modulation, frequency modulation, or any other deterministic or stochastic UGens that you can play and change via mouse interaction or argument setting. We will share these at the next class.
 
-
-
-
-## Week 5
-
-**Monday**
+**Part 2**
 
 _Envelopes and Randomness_
 
@@ -463,7 +562,9 @@ _Envelopes and Randomness_
     - `.exprange`
     - `.clip`
 
-**Wednesday**
+## Week 6
+
+**Part 1**
 
 _Server-Side Sequencing_
 
@@ -483,9 +584,9 @@ Sketch TODO: Create a short algorithmic work that utilizes envelopes and server-
 
 
 
-## Week 6
+## Week 7
 
-**Monday**
+**Part 1**
 
 _SynthDefs and Synths_
 
@@ -497,7 +598,20 @@ _SynthDefs and Synths_
 - Load and Play a SynthDef
 - The Synth Tree/Graph
 - free-ing synths
-- **Launch Project 1**
+
+
+**Part 2**
+
+_Language-Side Scheduling and Sequencing_
+
+- Scheduling with `{}.fork` & `t.wait`
+    - `.do{}` loops
+    - `.stop`
+- `TempoClock()`'s
+- `Task({})`
+- `Routine({})`
+-
+**Launch Project 1**
     - Create a significant sonic artwork using the skills you have thus far acquired with SuperCollider and in Sonic Programming.
     - This artwork may be presented as a live work that you "perform" or a fixed-work that is played back from a sound file or SC itself.
     - If you create a fixed-work, please feel free to utilize a DAW to edit, mix, and master your content.
@@ -513,23 +627,12 @@ _SynthDefs and Synths_
             - desired artistic outcomes
         - Documentation should be completed through a combination of recording, git commits, and personal reflection.
 
-**Wednesday**
-
-_Language-Side Scheduling and Sequencing_
-
-- Scheduling with `{}.fork` & `t.wait`
-    - `.do{}` loops
-    - `.stop`
-- `TempoClock()`'s
-- `Task({})`
-- `Routine({})`
-
 Sketch TODO: Write a short work that encapsulates your synth's as SynthDefs. Then utilize language-side scheduling to launch and alter synths algorithmically.
 
 
-## Week 7
+## Week 8
 
-**Monday**
+**Part 1**
 
 _Sound Input and Buses_
 
@@ -558,7 +661,7 @@ _Sound Input and Buses_
 
 
 
-**Wednesday**
+**Part 2**
 
 _Nodes, Groups, Effects, and Synth Order_
 - Nodes and the Synth Node Tree
@@ -584,10 +687,19 @@ _Nodes, Groups, Effects, and Synth Order_
     - `Resonz`
     - [Filter UGens | SuperCollider Help](http://doc.sccode.org/Browse.html#UGens%3EFilters)
 
+## Week 9 - Crit Day #1
 
-## Week 8
+**_Crit Day #1_**
 
-**Monday**
+- Present Project 1 artworks in class.
+- These will be critiqued in class with the whole class participating.
+- Regardless of whether you work is a live or fixed piece, you should submit a fixed version to the instructor. This should be accompanied with a program/gallery note as well as longer artistic description.
+
+
+
+## Week 10
+
+**Part 1**
 
 _Sound Files and Buffers_
 
@@ -606,9 +718,8 @@ _Sound Files and Buffers_
 - Playing Back LOOOOOOONG Audio Files
 - Recording SC
 
-Sketch TODO: Create a short sound work that explores the use of sound input or soundfiles along with inter-synth bussing.
 
-**Wednesday**
+**Part 2**
 
 _Granular Synthesis_
 
@@ -620,32 +731,15 @@ _Granular Synthesis_
 - Window Functions
 - Precise Timing in SC
 
-
-
-
-## Week 9 - Crit Day #1
-
-**Monday**
-
-_Individual Review Day in Preparation for Crit #1_
-
-- This is a chance for you to work on your works and get help from the instructor or your fellow classmates.
-
-
-**Wednesday**
-
-_Crit Day #1_
-
-- Present Project 1 artworks in class.
-- These will be critiqued in class with the whole class participating.
-- Regardless of whether you work is a live or fixed piece, you should submit a fixed version to the instructor. This should be accompanied with a program/gallery note as well as longer artistic description.
+Sketch TODO: Create a short sound work that explores the use of sound input or soundfiles along with inter-synth bussing.
 
 
 
 
-## Week 10
 
-**Monday**
+## Week 11
+
+**Part 1**
 
 _Patterns & PBind_
 
@@ -673,10 +767,9 @@ _Patterns & PBind_
             - desired artistic outcomes
         - Documentation should be completed through a combination of recording, git commits, and personal reflection.
 
-Sketch TODO: Create a short artwork utilizing patterns and pattern manipulation
 
 
-**Wednesday**
+**Part 2**
 
 _Performance Issues with SC & Inter-App Audio Routing_
 
@@ -685,10 +778,12 @@ _Performance Issues with SC & Inter-App Audio Routing_
 - How to setup SC as an installation engine.
 - Inter-Application Audio Routing
 
+Sketch TODO: Create a short artwork utilizing patterns and pattern manipulation
 
-## Week 11
 
-**Monday**
+## Week 12
+
+**Part 1**
 
 _Fast Fourier Transform (FFT) Processing_
 
@@ -698,7 +793,7 @@ _Fast Fourier Transform (FFT) Processing_
 - Frequency-Domain based processing
 
 
-**Wednesday**
+**Part 2**
 
 _Analysis and Basic Machine Listening_
 
@@ -710,10 +805,13 @@ _Analysis and Basic Machine Listening_
 
 
 
+{% comment %}
 
-## Week 12
 
-**Monday**
+
+## Week 13
+
+**Part 1**
 
 _Open Sound Control_
 
@@ -727,7 +825,7 @@ _Open Sound Control_
 - Lemur
 
 
-**Wednesday**
+**Part 2**
 
 _Physical Computing_
 
@@ -738,32 +836,19 @@ _Physical Computing_
 - Controlling Arduino from SC
 
 
+{% endcomment %}
 
 
 ## Week 13
 
-**Monday**
+**_No Class: Due to Thanksgiving Break_**
 
-_Work and Feedback on Project 2_
-
-- You are encouraged to present or perform your work for the professor.
-    - There will be a second room setup to accommodate this.
-    - This is an opportunity to practice your performance or present your gallery piece and receive critical feedback before the official crit day.
-    - The professor will provide you with information about what was and was not successful in their view.
-    - If this is a performance, the professor will work with you on the technical details of performing and the reception of the performance.
-    - If this is a gallery work, the professor will work with you on the technical details of presenting a self-running work and the reception of the work.
-
-
-**Wednesday**
-
-_Work and Feedback on Project 2 Continued_
-
-- We will continue informal presentations and feedback with the professor.
+_Work on Project 2_
 
 
 ## Week 14 - Public Presentation
 
-**Monday**
+**Part 1**
 
 _Public Performance and Presentation_
 
@@ -778,9 +863,14 @@ _Public Performance and Presentation_
     - Gallery spaces will remain open for 30 minutes after the shows conclusion.
 
 
-**Wednesday**
+**Part 2**
+
+_Performance in the Evening_
+
+
+## Week 15
 
 _Formal Critique and Wrap-up Discussion_
 
-- We will have a formal critique of presentations from Monday. Please be prepared with a fixed video/audio-representation of your work.
+- We will have a formal critique of presentations from last week. Please be prepared with a fixed video/audio-representation of your work.
 - We will also discuss the semester, future opportunities, and directions that this work can take you.
