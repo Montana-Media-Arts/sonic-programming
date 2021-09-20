@@ -49,10 +49,19 @@ This course will involve engaging classes that involve hands-on work. These will
 
 
 
+# Weekly Breakdown
 
 ## Week 1
 
-**Monday**
+_Baby_
+
+## Week 2
+
+_Baby_
+
+## Week 3
+
+**Part 1**
 
 _Welcome and course overview_
 
@@ -62,37 +71,18 @@ _Welcome and course overview_
     - [SuperCollider](https://supercollider.github.io)
     - Headphones
 - Critique Days (Mandatory)
-    - Project 1 - Critique in Class; Wednesday, October 24th
+    - Project 1 - Critique in Class; Friday, October 29th
     - Project 2 - Critique in Class; Monday, December 3rd
 - Extra Meetings (Mandatory)
-    - Concert Showing (Project 2) - Monday, December 3rd. From 7pm-9pm
-    - Final Meeting (Wednesday, December 12th; 1:10pm-3:10pm)
+    - Concert Showing (Project 2) - Friday, December 3rd. From 7pm-9pm
+    - KGBA Presentation (Virtual Attendance Requested) - Wednesday, December 8th. From 8pm-10pm
+     - Finals Meeting (Wednesday, December 15th; 8:00AM-10:00AM)
 - Class Discussion
 
 
-**Wednesday**
+**Part 2**
 
-_Listening, Installation, and "Hello World"_
-
-- Headphone Listening and Evaluation Discussion
-    - [Spotify List of Suggested Tracks](https://open.spotify.com/user/mmusickm/playlist/6KBJcjjPE2QBem7NVuqVEa?si=T90TQ0MpQiqdeuFcc9HkAg)
 - Install SuperCollider
-- "Hello World" of SC
-- Review Git & GitHub.com
-
-
-## Week 2
-
-**Monday:**
-
-_No Class on Monday, Sept. 3rd for Labor Day_
-
-
-**Wednesday**
-
-_Installation Revisited, "Hello World", and lang vs. engine_
-
-- Review install of SC
 - Discussion of
     - SCSynth
     - SCLang
@@ -108,11 +98,32 @@ _Installation Revisited, "Hello World", and lang vs. engine_
 - Comments
     - line comments (`//`)
     - block comments (`/* */`)
+- Using the mouse to change parameters.
+    - `MouseX.kr` & `MouseY.kr`
+    - Let's make a [Theremin](https://en.wikipedia.org/wiki/Theremin)
+- video review and help
+    -  [SuperCollider Tutorial: 1. Navigating the Environment - YouTube](https://www.youtube.com/watch?v=ntL8QDOhhL8)
+    -  [SuperCollider Tutorial: 2. Making Sound - YouTube](https://www.youtube.com/watch?v=oTBcGPXH6K0)
+-  GIT Video (Previewing GIT)
+    - [Creative Coding 1, MART 120 | GitHub Part 1](https://montana-media-arts.github.io/creative-coding-1/modules/week-1/github-part1/)
+	- [Creative Coding 1, MART 120 | Git Version Control](https://montana-media-arts.github.io/creative-coding-1/modules/week-2/git-version-control/)
+	- [Creative Coding 1, MART 120 | Git GUI Applications (GitHub Desktop)](https://montana-media-arts.github.io/creative-coding-1/modules/week-2/git-gui-github/)
+	- [Creative Coding 1, MART 120 | Working with Git](https://montana-media-arts.github.io/creative-coding-1/modules/week-2/working-with-git/)
+	- [Creative Coding 1, MART 120 | GitHub.com](https://montana-media-arts.github.io/creative-coding-1/modules/week-2/github/)
+	- [Creative Coding 1, MART 120 | Markup & Markdown](https://montana-media-arts.github.io/creative-coding-1/modules/week-2/markup/)
 
 
-## Week 3
+## Week 4
 
-**Monday**
+**Part 1**
+
+_Installation Revisited, "Hello World", and lang vs. engine_
+
+- Review install of SC
+- Review git & GitHub.com
+
+
+**Part 2**
 
 _Moving beyond static sine waves with modulation_
 
@@ -120,9 +131,6 @@ _Moving beyond static sine waves with modulation_
     - `mul: `
     - BinaryOpUGen
         - `SinOsc.ar() * 0.2`
-- Using the mouse to change parameters.
-    - `MouseX.kr` & `MouseY.kr`
-    - Let's make a [Theremin](https://en.wikipedia.org/wiki/Theremin)
 - Introspection with polling
     - `.poll`
     - `.plot`
@@ -144,10 +152,18 @@ _Moving beyond static sine waves with modulation_
     - Symbol
     - Array
 
+_Listening, Inspiration, and Software Installation_
+
+- Headphone Listening and Evaluation Discussion
+    - [Spotify List of Suggested Tracks](https://open.spotify.com/user/mmusickm/playlist/6KBJcjjPE2QBem7NVuqVEa?si=T90TQ0MpQiqdeuFcc9HkAg)
+- Discussion and Listening to artists that will inspire our semester.
+
+
 Sketch TODO: Use MouseX/Y or Additional SinOsc UGens to play. Make an "interesting" synth that explores the relationships between these UGens. Can you recreate what we have been doing in class on your own? Do you understand what is happening? We will share results at the start of next class.
 
+## Week 4
 
-**Wednesday**
+**Part 1**
 
 _Audio Rate vs. Control Rate, Signal Flow, Variables, and Arguments_
 
@@ -170,12 +186,7 @@ _Audio Rate vs. Control Rate, Signal Flow, Variables, and Arguments_
     - Using Variables (`var`)
     - variable reassignment
 
-
-
-
-## Week 4
-
-**Monday**
+**Part 2**
 
 _Tour of Basic Deterministic Generator UGens, and Functions_
 
@@ -192,7 +203,12 @@ _Tour of Basic Deterministic Generator UGens, and Functions_
         - `.value()`
 - Easy SynthDef via function notation (`{}.play;`)
 
-**Wednesday**
+Sketch TODO: Create a simple synth utilizing additive synthesis, subtractive synthesis, amplitude modulation, frequency modulation, or any other deterministic or stochastic UGens that you can play and change via mouse interaction or argument setting. We will share these at the next class.
+
+
+## Week 5
+
+**Part 1**
 
 _"In Living Stereo", Signal Arrays, and Output_
 
@@ -209,14 +225,8 @@ _"In Living Stereo", Signal Arrays, and Output_
     - `Out.ar()`
     - 0-based language (_including audio output Buses_)
 
-Sketch TODO: Create a simple synth utilizing additive synthesis, subtractive synthesis, amplitude modulation, frequency modulation, or any other deterministic or stochastic UGens that you can play and change via mouse interaction or argument setting. We will share these at the next class.
 
-
-
-
-## Week 5
-
-**Monday**
+**Part 2**
 
 _Envelopes and Randomness_
 
@@ -240,7 +250,9 @@ _Envelopes and Randomness_
     - `.exprange`
     - `.clip`
 
-**Wednesday**
+## Week 6
+
+**Part 1**
 
 _Server-Side Sequencing_
 
@@ -260,10 +272,9 @@ Sketch TODO: Create a short algorithmic work that utilizes envelopes and server-
 
 
 
+## Week 7
 
-## Week 6
-
-**Monday**
+**Part 1**
 
 _SynthDefs and Synths_
 
@@ -275,7 +286,20 @@ _SynthDefs and Synths_
 - Load and Play a SynthDef
 - The Synth Tree/Graph
 - free-ing synths
-- **Launch Project 1**
+
+
+**Part 2**
+
+_Language-Side Scheduling and Sequencing_
+
+- Scheduling with `{}.fork` & `t.wait`
+    - `.do{}` loops
+    - `.stop`
+- `TempoClock()`'s
+- `Task({})`
+- `Routine({})`
+-
+**Launch Project 1**
     - Create a significant sonic artwork using the skills you have thus far acquired with SuperCollider and in Sonic Programming.
     - This artwork may be presented as a live work that you "perform" or a fixed-work that is played back from a sound file or SC itself.
     - If you create a fixed-work, please feel free to utilize a DAW to edit, mix, and master your content.
@@ -291,25 +315,12 @@ _SynthDefs and Synths_
             - desired artistic outcomes
         - Documentation should be completed through a combination of recording, git commits, and personal reflection.
 
-**Wednesday**
-
-_Language-Side Scheduling and Sequencing_
-
-- Scheduling with `{}.fork` & `t.wait`
-    - `.do{}` loops
-    - `.stop`
-- `TempoClock()`'s
-- `Task({})`
-- `Routine({})`
-
 Sketch TODO: Write a short work that encapsulates your synth's as SynthDefs. Then utilize language-side scheduling to launch and alter synths algorithmically.
 
 
+## Week 8
 
-
-## Week 7
-
-**Monday**
+**Part 1**
 
 _Sound Input and Buses_
 
@@ -338,7 +349,7 @@ _Sound Input and Buses_
 
 
 
-**Wednesday**
+**Part 2**
 
 _Nodes, Groups, Effects, and Synth Order_
 - Nodes and the Synth Node Tree
@@ -364,12 +375,19 @@ _Nodes, Groups, Effects, and Synth Order_
     - `Resonz`
     - [Filter UGens | SuperCollider Help](http://doc.sccode.org/Browse.html#UGens%3EFilters)
 
+## Week 9 - Crit Day #1
+
+**_Crit Day #1_**
+
+- Present Project 1 artworks in class.
+- These will be critiqued in class with the whole class participating.
+- Regardless of whether you work is a live or fixed piece, you should submit a fixed version to the instructor. This should be accompanied with a program/gallery note as well as longer artistic description.
 
 
 
-## Week 8
+## Week 10
 
-**Monday**
+**Part 1**
 
 _Sound Files and Buffers_
 
@@ -388,9 +406,8 @@ _Sound Files and Buffers_
 - Playing Back LOOOOOOONG Audio Files
 - Recording SC
 
-Sketch TODO: Create a short sound work that explores the use of sound input or soundfiles along with inter-synth bussing.
 
-**Wednesday**
+**Part 2**
 
 _Granular Synthesis_
 
@@ -402,35 +419,20 @@ _Granular Synthesis_
 - Window Functions
 - Precise Timing in SC
 
-
-
-
-## Week 9 - Crit Day #1
-
-**Monday**
-
-_Individual Review Day in Preparation for Crit #1_
-
-- This is a chance for you to work on your works and get help from the instructor or your fellow classmates.
-
-
-**Wednesday**
-
-_Crit Day #1_
-
-- Present Project 1 artworks in class.
-- These will be critiqued in class with the whole class participating.
-- Regardless of whether you work is a live or fixed piece, you should submit a fixed version to the instructor. This should be accompanied with a program/gallery note as well as longer artistic description.
+Sketch TODO: Create a short sound work that explores the use of sound input or soundfiles along with inter-synth bussing.
 
 
 
 
-## Week 10
 
-**Monday**
+## Week 11
+
+**Part 1**
 
 _Patterns & PBind_
 
+- Please Read:
+    - ["Part II - Patterns" from Bruno Ruviaro's _A Gentle Introduction to SuperCollider_](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf)
 - This week is a deep dive into the world of algorithmic composition, as allowed through SuperColliders Pattern capabilities.
 - Basic Pattern techniques with PBind
 - Effecting and controlling everything with patterns
@@ -453,10 +455,9 @@ _Patterns & PBind_
             - desired artistic outcomes
         - Documentation should be completed through a combination of recording, git commits, and personal reflection.
 
-Sketch TODO: Create a short artwork utilizing patterns and pattern manipulation
 
 
-**Wednesday**
+**Part 2**
 
 _Performance Issues with SC & Inter-App Audio Routing_
 
@@ -465,10 +466,12 @@ _Performance Issues with SC & Inter-App Audio Routing_
 - How to setup SC as an installation engine.
 - Inter-Application Audio Routing
 
+Sketch TODO: Create a short artwork utilizing patterns and pattern manipulation
 
-## Week 11
 
-**Monday**
+## Week 12
+
+**Part 1**
 
 _Fast Fourier Transform (FFT) Processing_
 
@@ -478,7 +481,7 @@ _Fast Fourier Transform (FFT) Processing_
 - Frequency-Domain based processing
 
 
-**Wednesday**
+**Part 2**
 
 _Analysis and Basic Machine Listening_
 
@@ -490,10 +493,13 @@ _Analysis and Basic Machine Listening_
 
 
 
+{% comment %}
 
-## Week 12
 
-**Monday**
+
+## Week 13
+
+**Part 1**
 
 _Open Sound Control_
 
@@ -507,7 +513,7 @@ _Open Sound Control_
 - Lemur
 
 
-**Wednesday**
+**Part 2**
 
 _Physical Computing_
 
@@ -518,32 +524,19 @@ _Physical Computing_
 - Controlling Arduino from SC
 
 
+{% endcomment %}
 
 
 ## Week 13
 
-**Monday**
+**_No Class: Due to Thanksgiving Break_**
 
-_Work and Feedback on Project 2_
-
-- You are encouraged to present or perform your work for the professor.
-    - There will be a second room setup to accommodate this.
-    - This is an opportunity to practice your performance or present your gallery piece and receive critical feedback before the official crit day.
-    - The professor will provide you with information about what was and was not successful in their view.
-    - If this is a performance, the professor will work with you on the technical details of performing and the reception of the performance.
-    - If this is a gallery work, the professor will work with you on the technical details of presenting a self-running work and the reception of the work.
-
-
-**Wednesday**
-
-_Work and Feedback on Project 2 Continued_
-
-- We will continue informal presentations and feedback with the professor.
+_Work on Project 2_
 
 
 ## Week 14 - Public Presentation
 
-**Monday**
+**Part 1**
 
 _Public Performance and Presentation_
 
@@ -558,9 +551,14 @@ _Public Performance and Presentation_
     - Gallery spaces will remain open for 30 minutes after the shows conclusion.
 
 
-**Wednesday**
+**Part 2**
+
+_Performance in the Evening_
+
+
+## Week 15
 
 _Formal Critique and Wrap-up Discussion_
 
-- We will have a formal critique of presentations from Monday. Please be prepared with a fixed video/audio-representation of your work.
+- We will have a formal critique of presentations from last week. Please be prepared with a fixed video/audio-representation of your work.
 - We will also discuss the semester, future opportunities, and directions that this work can take you.
