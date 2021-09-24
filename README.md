@@ -127,6 +127,23 @@ _Installation Revisited, "Hello World", and lang vs. engine_
 
 _Moving beyond static sine waves with modulation_
 
+- What is a "UGen"
+    - [Unit Generators and Synths - SuperCollider help files](http://doc.sccode.org/Tutorials/UGens-and-Synths.html)
+    - [Unit generator - Wikipedia](https://en.wikipedia.org/wiki/Unit_generator)
+- Error Messages
+- Audio Rate (`.ar`) vs. Control Rate (`.kr`)
+    - `.plot(duration:1)`
+- Variables in SynthDefs
+    - `var`
+- _"Global"_ Variables
+    - `a` - `z`
+        - interpreter variables
+    - `~var`
+        - environment variables
+- Variable scope in SC
+- Arguments in SynthDefs
+    - `arg`
+    - using `.set(\argname, value)` to alter running synths
 - Controlling Amplitude
     - `mul: `
     - BinaryOpUGen
@@ -138,11 +155,7 @@ _Moving beyond static sine waves with modulation_
     - Two ways of approaching Amplitude Modulation (AM Synthesis)
     - Frequency Modulation Synthesis via oscillators
 - `mul` and `add`
-- Error Messages
 - Altering parameters in example code
-- What is a "UGen"
-    - [Unit Generators and Synths - SuperCollider help files](http://doc.sccode.org/Tutorials/UGens-and-Synths.html)
-    - [Unit generator - Wikipedia](https://en.wikipedia.org/wiki/Unit_generator)
 - Mathematical Order of Precedence
 - Review Basic Data Types
     - Int
@@ -167,19 +180,7 @@ Sketch TODO: Use MouseX/Y or Additional SinOsc UGens to play. Make an "interesti
 
 _Audio Rate vs. Control Rate, Signal Flow, Variables, and Arguments_
 
-- Audio Rate (`.ar`) vs. Control Rate (`.kr`)
-- `.plot(duration:1)`
-- Variables in SynthDefs
-    - `var`
-- _"Global"_ Variables
-    - `a` - `z`
-        - interpreter variables
-    - `~var`
-        - environment variables
-- Variable scope in SC
-- Arguments in SynthDefs
-    - `arg`
-    - using `.set(\argname, value)` to alter running synths
+
 - Signal Flow
     - Representing Signal Flow in Code
     - Pyramid Structure or Nested Code
