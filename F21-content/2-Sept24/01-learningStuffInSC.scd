@@ -171,9 +171,9 @@ A synth argument is a value which can be externally modified or added, at the ti
 ~synth1.set(\fr, 2000)
 ~synth1.set(\fr, 4000)
 
-~synth2.set(\fr, 400)
+~synth2.set(\fr, 100)
 ~synth1.set(\fr, 410)
-~synth1.set(\amp, 0.01)
+~synth1.set(\amp, 0.6)
 ~synth2.set(\amp, 0.6)
 
 ~synth1.free;
