@@ -229,8 +229,26 @@ _"In Living Stereo", Signal Arrays, and Output_
 
 **Part 2**
 
-_Envelopes and Randomness_
+_Synth Randomness & Envelopes_
 
+- 1-dimensional envelopes
+    - `Line.kr()` & `XLine.kr()`
+- ADR, ADSR, Perc, and Custom Envelopes
+    - `Env.`
+    - `EnvGen.kr()`
+
+
+## Week 6
+
+
+
+_Synth Randomness, Server-Side Sequencing, & Envelopes, Revisited_
+
+- Synth-side Randomness and Impulse Signals
+	- `Impulse.kr()`
+	- `Dust.kr()`
+	- `Blip.kr()`
+	- `LFNoise0.kr()`
 - 1-dimensional envelopes
     - `Line.kr()` & `XLine.kr()`
     - `Decay.ar()`
@@ -251,22 +269,6 @@ _Envelopes and Randomness_
     - `.exprange`
     - `.clip`
 
-## Week 6
-
-**Part 1**
-
-_Server-Side Sequencing_
-
-- Clock UGens
-    - `Impulse`
-    - `Dust`
-    - `LFNoise0/1/2`
-- Trigger UGens
-    - `Stepper`
-    - `Select`
-    - `Trig1`
-    - `Latch`
-- Envelope Gates
 
 
 Sketch TODO: Create a short algorithmic work that utilizes envelopes and server-side sequencing/triggering.
