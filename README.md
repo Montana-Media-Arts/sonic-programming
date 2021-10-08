@@ -7,8 +7,9 @@
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
 - Office: McGill Hall, 232.
 - Office Hours:
-    - Wednesdays: 12:00pm - 1:00pm
-    - Thursdays: 11:30am - 1:30pm
+  - In-person (McG 232): Monday's noon-1pm
+  - Virtual via Appointment from Link: [calendly.com/michael-musick](https://calendly.com/michael-musick)
+	- Please select a meeting time from availability via the Calendly web service. This will then provide you with a zoom link
 
 ## Links
 
