@@ -282,6 +282,7 @@ Sketch TODO: Create a short algorithmic work that utilizes envelopes and server-
 
 _SynthDefs and Synths_
 
+- [10. SynthDefs and Synths | SuperCollider 3.12.0 Help](https://doc.sccode.org/Tutorials/Getting-Started/10-SynthDefs-and-Synths.html)
 - `SynthDef`'s
     - Loading and storing them
 - Playing `Synths`
@@ -302,7 +303,12 @@ _Language-Side Scheduling and Sequencing_
 - `TempoClock()`'s
 - `Task({})`
 - `Routine({})`
--
+- [14. Scheduling Events | SuperCollider 3.12.0 Help](https://doc.sccode.org/Tutorials/Getting-Started/14-Scheduling-Events.html)
+- [15. Sequencing with Routines and Tasks | SuperCollider 3.12.0 Help](https://doc.sccode.org/Tutorials/Getting-Started/15-Sequencing-with-Routines-and-Tasks.html)
+
+
+
+
 **Launch Project 1**
     - Create a significant sonic artwork using the skills you have thus far acquired with SuperCollider and in Sonic Programming.
     - This artwork may be presented as a live work that you "perform" or a fixed-work that is played back from a sound file or SC itself.
