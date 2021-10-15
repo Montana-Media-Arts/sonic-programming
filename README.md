@@ -332,8 +332,9 @@ Sketch TODO: Write a short work that encapsulates your synth's as SynthDefs. The
 
 **Part 1**
 
-_Sound Input and Buses_
+_Recording, Sound Input and Buses_
 
+- How to record SC
 - Processing Audio from the Real World
     - `SoundIn.ar()`
     - Warnings about feedback
