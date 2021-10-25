@@ -335,6 +335,19 @@ Sketch TODO: Write a short work that encapsulates your synth's as SynthDefs. The
 _Recording, Sound Input and Buses_
 
 - How to record SC
+
+## Week 9 - Crit Day #1
+
+**Part 1: _Crit Day #1_**
+
+- Present Project 1 artworks in class.
+- These will be critiqued in class with the whole class participating.
+- Regardless of whether you work is a live or fixed piece, you should submit a fixed version to the instructor. This should be accompanied with a program/gallery note as well as longer artistic description.
+
+**Part 2**
+
+_Audio and Buses_ 
+
 - Processing Audio from the Real World
     - `SoundIn.ar()`
     - Warnings about feedback
@@ -359,10 +372,8 @@ _Recording, Sound Input and Buses_
     - `'Synth__00'.map(\freq, c.index)`
 
 
-
-**Part 2**
-
 _Nodes, Groups, Effects, and Synth Order_
+
 - Nodes and the Synth Node Tree
     - Order of operation
     - specifying node order
@@ -386,13 +397,7 @@ _Nodes, Groups, Effects, and Synth Order_
     - `Resonz`
     - [Filter UGens | SuperCollider Help](http://doc.sccode.org/Browse.html#UGens%3EFilters)
 
-## Week 9 - Crit Day #1
 
-**_Crit Day #1_**
-
-- Present Project 1 artworks in class.
-- These will be critiqued in class with the whole class participating.
-- Regardless of whether you work is a live or fixed piece, you should submit a fixed version to the instructor. This should be accompanied with a program/gallery note as well as longer artistic description.
 
 
 
