@@ -403,39 +403,21 @@ _Nodes, Groups, Effects, and Synth Order_
 
 ## Week 10
 
-**Part 1**
+- Tour of Delay UGens
+    - `CombN/L/C`
+    - `Delay`
+    - `DelayN`
+    - [Delay UGens | SuperCollider Help](http://doc.sccode.org/Browse.html#UGens%3EDelays)
+- Tour of Filter UGens
+    - `LPF`
+    - `RLPF`
+    - `HPF`
+    - `RHPF`
+    - `BPF`
+    - `BRF`
+    - `Resonz`
+    - [Filter UGens | SuperCollider Help](http://doc.sccode.org/Browse.html#UGens%3EFilters)
 
-_Sound Files and Buffers_
-
-- What is a Buffer?
-- The various ways the Buffers are used in audio processing environments
-- Allocating Buffers
-    - `b=Buffer.alloc(s, 10*)`
-- Freeing Buffers
-    - `b.free`
-    - Discussion of the importance of freeing buffers
-- Loading Audio Files into Buffers
-- Playing Buffers
-    - Rate
-    - Direction
-    - Amplitude
-- Playing Back LOOOOOOONG Audio Files
-- Recording SC
-
-
-**Part 2**
-
-_Granular Synthesis_
-
-- Granular Synthesis
-    - Discussion and Description
-    - Theoretical Underpinnings
-- Playing with Grains
-- Grain Rate
-- Window Functions
-- Precise Timing in SC
-
-Sketch TODO: Create a short sound work that explores the use of sound input or soundfiles along with inter-synth bussing.
 
 
 
@@ -448,6 +430,7 @@ Sketch TODO: Create a short sound work that explores the use of sound input or s
 _Patterns & PBind_
 
 - Please Read:
+    - [A Practical Guide to Patterns | SC Documentation](http://doc.sccode.org/Browse.html#Streams-Patterns-Events%3EA-Practical-Guide)
     - ["Part II - Patterns" from Bruno Ruviaro's _A Gentle Introduction to SuperCollider_](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf)
 - This week is a deep dive into the world of algorithmic composition, as allowed through SuperColliders Pattern capabilities.
 - Basic Pattern techniques with PBind
@@ -486,6 +469,40 @@ Sketch TODO: Create a short artwork utilizing patterns and pattern manipulation
 
 
 ## Week 12
+
+**Part 1**
+
+_Sound Files and Buffers_
+
+- What is a Buffer?
+- The various ways the Buffers are used in audio processing environments
+- Allocating Buffers
+    - `b=Buffer.alloc(s, 10*)`
+- Freeing Buffers
+    - `b.free`
+    - Discussion of the importance of freeing buffers
+- Loading Audio Files into Buffers
+- Playing Buffers
+    - Rate
+    - Direction
+    - Amplitude
+- Playing Back LOOOOOOONG Audio Files
+- Recording SC
+
+
+**Part 2**
+
+_Granular Synthesis_
+
+- Granular Synthesis
+    - Discussion and Description
+    - Theoretical Underpinnings
+- Playing with Grains
+- Grain Rate
+- Window Functions
+- Precise Timing in SC
+
+Sketch TODO: Create a short sound work that explores the use of sound input or soundfiles along with inter-synth bussing.
 
 **Part 1**
 
